@@ -11,6 +11,7 @@ namespace For3Course
         static void Main(string[] args)
         {
             // for you!
+            Console.WriteLine("for me");
         }
     }
 }

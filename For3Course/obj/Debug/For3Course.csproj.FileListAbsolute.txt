@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\FindMaxApp\For3Course\For3Course\bin\Debug\For3Course.exe.config
+C:\Users\Admin\source\repos\FindMaxApp\For3Course\For3Course\bin\Debug\For3Course.exe
+C:\Users\Admin\source\repos\FindMaxApp\For3Course\For3Course\bin\Debug\For3Course.pdb
+C:\Users\Admin\source\repos\FindMaxApp\For3Course\For3Course\obj\Debug\For3Course.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FindMaxApp\For3Course\For3Course\obj\Debug\For3Course.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FindMaxApp\For3Course\For3Course\obj\Debug\For3Course.exe
+C:\Users\Admin\source\repos\FindMaxApp\For3Course\For3Course\obj\Debug\For3Course.pdb
